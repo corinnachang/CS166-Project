@@ -1,0 +1,12 @@
+Client IP: /192.168.1.4:63519
+IP: /192.168.1.4
+Port: 63519
+Connection Attempt: 32
+Time connected: Tue May 10 16:15:47 PDT 2022
+Location details:
+-Could not identify location details: The IP address '192.168.1.4' is a reserved IP address (private, multicast, etc.).
+
+Collected Input Stream:
+GET / HTTP/1.1
+Connection duartion: 759ms
+*********************************

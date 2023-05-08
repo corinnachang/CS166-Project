@@ -1,0 +1,36 @@
+IP: /2607:f380:828:fa00:0:0:0:4460
+Port: 49412
+Time connected: Wed Apr 27 15:56:07 PDT 2022
+Location details:
+-Country: United States(US)
+-Subdivsion (best estimated): null(null)
+-City: null
+Postal code: null
+-Latitude: 37.751
+-Longitude: -97.822
+Domain details
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+Connection duartion: 11390ms
+*********************************
+IP: /2607:f380:828:fa00:0:0:0:4460
+Port: 49416
+Time connected: Wed Apr 27 15:58:40 PDT 2022
+Location details:
+-Country: United States (US)
+-Subdivsion (best estimated): null (null)
+-City: null
+Postal code: null
+-Latitude: 37.751
+-Longitude: -97.822
+Domain details
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+Connection duartion: 7680ms
+*********************************

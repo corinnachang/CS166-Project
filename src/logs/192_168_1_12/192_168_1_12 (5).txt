@@ -1,0 +1,12 @@
+IP: /192.168.1.12
+Port: 33334
+Client IP: /192.168.1.12:33334
+Connection Attempt: 5
+Time connected: Sat May 07 16:57:13 PDT 2022
+Location details:
+-Could not identify location details: The IP address '192.168.1.12' is a reserved IP address (private, multicast, etc.).
+
+Collected Input Stream:
+����
+
+*********************************

@@ -1,0 +1,25 @@
+Client IP: /192.168.1.4:59635
+IP: /192.168.1.4
+Port: 59635
+Connection Attempt: 17
+Time connected: Tue May 10 00:30:43 PDT 2022
+Location details:
+-Country: Russia (RU)
+-Subdivsion (best estimated): Ulyanovsk Oblast (ULY)
+-City: Ulyanovsk
+-Postal code: 432001
+-Latitude: 54.3307
+-Longitude: 48.3888
+Domain details:
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+
+Collected Input Stream:
+GET / HTTP/1.1
+Host: 192.168.1.4:1234
+Connection: keep-alive
+Connection duartion: 3471ms
+*********************************

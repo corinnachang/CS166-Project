@@ -1,0 +1,25 @@
+Client IP: /192.168.1.12:43102
+IP: /192.168.1.12
+Port: 43102
+Connection Attempt: 20
+Time connected: Mon May 09 23:26:18 PDT 2022
+Location details:
+-Country: United States (US)
+-Subdivsion (best estimated): California (CA)
+-City: San Jose
+-Postal code: 95112
+-Latitude: 37.3512
+-Longitude: -121.8846
+Domain details:
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+
+Collected Input Stream:
+test test
+test test
+
+Connection duartion: 7931ms
+*********************************

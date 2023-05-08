@@ -1,0 +1,28 @@
+IP: /0:0:0:0:0:0:0:1
+Port: 51643
+Client IP: /[0:0:0:0:0:0:0:1]:51643
+Connection Attempt: 9
+Time connected: Wed May 04 21:29:24 PDT 2022
+Location details:
+-Could not identify location details: The IP address '::1' is a reserved IP address (private, multicast, etc.).
+
+Collected Input Stream:
+GET / HTTP/1.1
+Host: localhost:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="101", "Microsoft Edge";v="101"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: username-localhost-8889="2|1:0|10:1649444361|23:username-localhost-8889|44:Zjk2ZTE1N2IwNTdiNGNkNzk1YzYwMDk1YjYxYTRjMWM=|428e744ea1d1834d2bf8b8699cb9c5380cfbb2db0966161c4d2abe8c3139b3f5"; username-localhost-8890="2|1:0|10:1649490731|23:username-localhost-8890|44:NGQwYTUxNDU2ZTE5NDUwYzljOWU0MzliNDBlZTE4Mzc=|eb0c22d1326737f26e6f18352fe8bb95fea48e19896f76d71b8f8d3e226e19cb"; _xsrf=2|0bd31d83|f4b1be8ce1c167d65a93400d2d80bf04|1651212152; username-localhost-8888="2|1:0|10:1651292498|23:username-localhost-8888|44:ZWZjYTdhZTg2NTI3NDMxYWI4ZmUzNGVhZDg3MDM4NDk=|946b5b120cd0b06950d437d4ae20062616069ffe250f0e451311417b5d1f2f5a"
+
+*********************************

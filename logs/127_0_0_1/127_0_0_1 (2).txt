@@ -1,0 +1,11 @@
+IP: /127.0.0.1
+Port: 52539
+Client IP: /127.0.0.1:52539
+Connection Attempt: 2
+Time connected: Wed May 04 18:08:02 PDT 2022
+Location details:
+-Could not identify location details.
+
+Collected Input Stream
+Connection duartion: 11315ms
+*********************************

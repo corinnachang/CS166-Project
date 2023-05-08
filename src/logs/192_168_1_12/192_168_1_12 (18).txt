@@ -1,0 +1,12 @@
+Client IP: /192.168.1.12:43090
+IP: /192.168.1.12
+Port: 43090
+Connection Attempt: 18
+Time connected: Mon May 09 23:13:52 PDT 2022
+Location details:
+-Could not identify location details: The IP address '192.168.1.12' is a reserved IP address (private, multicast, etc.).
+
+Collected Input Stream:
+
+Connection duartion: 3261ms
+*********************************

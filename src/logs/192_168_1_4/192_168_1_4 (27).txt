@@ -1,0 +1,12 @@
+Client IP: /192.168.1.4:57922
+IP: /192.168.1.4
+Port: 57922
+Connection Attempt: 27
+Time connected: Tue May 10 00:38:39 PDT 2022
+Location details:
+-Could not identify location details: The IP address '192.168.1.4' is a reserved IP address (private, multicast, etc.).
+
+Collected Input Stream:
+GET / HTTP/1.1
+Connection duartion: 1547ms
+*********************************

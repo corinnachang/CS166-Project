@@ -1,0 +1,24 @@
+Client IP: /192.168.1.12:33364
+IP: /192.168.1.12
+Port: 33364
+Connection Attempt: 11
+Time connected: Sat May 07 17:48:25 PDT 2022
+Location details:
+-Country: United States (US)
+-Subdivsion (best estimated): California (CA)
+-City: San Jose
+-Postal code: 95116
+-Latitude: 37.3479
+-Longitude: -121.8527
+Domain details
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+
+Collected Input Stream:
+����
+
+Connection duartion: 2580ms
+*********************************

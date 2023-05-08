@@ -1,0 +1,24 @@
+Client IP: /192.168.1.12:43108
+IP: /192.168.1.12
+Port: 43108
+Connection Attempt: 23
+Time connected: Mon May 09 23:30:19 PDT 2022
+Location details:
+-Country: Russia (RU)
+-Subdivsion (best estimated): Ulyanovsk Oblast (ULY)
+-City: Ulyanovsk
+-Postal code: 432001
+-Latitude: 54.3307
+-Longitude: 48.3888
+Domain details:
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+
+Collected Input Stream:
+random russian ip address
+
+Connection duartion: 7066ms
+*********************************

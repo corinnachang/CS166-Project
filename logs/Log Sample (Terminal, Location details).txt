@@ -1,0 +1,27 @@
+Client IP: /89.250.165.81:50704
+IP: /89.250.165.81
+Port: 50704
+Connection Attempt: 1
+Time connected: Sat May 07 17:46:32 PDT 2022
+Location details:
+-Country: Russia (RU)
+-Subdivsion (best estimated): Ulyanovsk Oblast (ULY)
+-City: Ulyanovsk
+-Postal code: 432001
+-Latitude: 54.3307
+-Longitude: 48.3888
+Domain details
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+
+Collected Input Stream:
+password
+password1
+test tes
+sdsr ut38o4
+
+Connection duartion: 14459ms
+*********************************

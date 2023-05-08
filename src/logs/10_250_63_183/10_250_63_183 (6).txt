@@ -1,0 +1,21 @@
+Client IP: /10.250.63.183:59588
+IP: /10.250.63.183
+Port: 59588
+Connection Attempt: 6
+Time connected: Mon May 09 15:27:22 PDT 2022
+Location details:
+-Could not identify location details: The IP address '10.250.63.183' is a reserved IP address (private, multicast, etc.).
+
+Collected Input Stream:
+GET / HTTP/1.1
+Host: 10.250.63.183:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+Connection duartion: 4827ms
+*********************************

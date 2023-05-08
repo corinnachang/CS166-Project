@@ -1,0 +1,22 @@
+Client IP: /10.250.63.183:62322
+IP: /10.250.63.183
+Port: 62322
+Connection Attempt: 14
+Time connected: Mon May 09 16:11:00 PDT 2022
+Location details:
+-Country: United States (US)
+-Subdivsion (best estimated): null (null)
+-City: null
+-Postal code: null
+-Latitude: 37.751
+-Longitude: -97.822
+Domain details:
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+
+Collected Input Stream:
+Connection duartion: 34528ms
+*********************************

@@ -1,0 +1,9 @@
+Client IP: /192.168.1.4:61172
+IP: /192.168.1.4
+Port: 61172
+Connection Attempt: 4
+Time connected: Mon May 09 22:43:11 PDT 2022
+Location details:
+-Could not identify location details: The IP address '192.168.1.4' is a reserved IP address (private, multicast, etc.).
+Connection duartion: 639ms
+*********************************

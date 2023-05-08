@@ -1,0 +1,29 @@
+Client IP: /192.168.1.4:59622
+IP: /192.168.1.4
+Port: 59622
+Connection Attempt: 15
+Time connected: Tue May 10 00:29:50 PDT 2022
+Location details:
+-Country: Russia (RU)
+-Subdivsion (best estimated): Ulyanovsk Oblast (ULY)
+-City: Ulyanovsk
+-Postal code: 432001
+-Latitude: 54.3307
+-Longitude: 48.3888
+Domain details:
+-User Type: null
+-Domain: null
+-Organization: null
+-Mobile Country Code: null
+-Mobile Network Code: null
+
+Collected Input Stream:
+GET / HTTP/1.1
+Host: 192.168.1.4:1234
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Connection duartion: 600ms
+*********************************

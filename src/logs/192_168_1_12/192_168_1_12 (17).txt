@@ -1,0 +1,28 @@
+Client IP: /192.168.1.12:43088
+IP: /192.168.1.12
+Port: 43088
+Connection Attempt: 17
+Time connected: Mon May 09 23:11:28 PDT 2022
+Location details:
+-Could not identify location details: The IP address '192.168.1.12' is a reserved IP address (private, multicast, etc.).
+
+Collected Input Stream:
+eaErvsdf
+aw3bwa3b
+wz3bz
+3b5zw3
+b5zw3
+b5wb3
+5zb3
+5wzb
+5wz4b
+5zb3
+5z3
+b5zb3
+5wz3
+b5wz3
+b
+����������������
+����
+Connection duartion: 22565ms
+*********************************
